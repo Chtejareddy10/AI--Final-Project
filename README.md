@@ -8,7 +8,7 @@ Tic Tac Toe is a classic and engaging two-player game played on a three-by-three
 To achieve optimal decision-making, various agents can be utilized, including the Q-learning algorithm for reinforcement learning and the Alpha-Beta and Minimax algorithms for adversarial search. These agents evaluate key parameters such as the number of moves, node exploration, and the total time required to complete the game, striving to make the most effective choices at each step.
 
 <div align="center">
-  <img width="450" alt="OIP" src="https://github.com/Chtejareddy10/AI-Final-Project/AlphaBeta.png">
+  <img width="450" alt="ai py" src="https://github.com/mummadiroshanreddy/AI-Final-Project/assets/129618586/37abe2b1-7de7-4cb0-8897-f409f359cf83">
 </div>
 
 # Objectives
@@ -53,7 +53,7 @@ Q-Learning is a popular reinforcement learning technique grounded in the Bellman
 Reinforcement learning is a machine learning approach where an agent learns through trial and error within an interactive environment. By observing its actions and their outcomes, the agent adapts and acquires knowledge to improve its performance over time.
 
 
-<img width="500" alt="image" src="[https://github.com/mummadiroshanreddy/AI-Final-Project/assets/129618586/5ae7858b-a421-45d6-bd09-5f8f613c1099](https://www.bing.com/images/search?view=detailV2&ccid=GWCMlTt7&id=20E2237D5677D5177056335E3E59C6AB157D4FE4&thid=OIP.GWCMlTt7tsDoaqK0M2gLHwHaDd&mediaurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1162%2F1*KBrRlD4jlyeOQMI-usMfIw.png&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.19608c953b7bb6c0e86aa2b433680b1f%3Frik%3D5E99FavGWT5eMw%26pid%3DImgRaw%26r%3D0&exph=542&expw=1162&q=reinforcement+learning+images+for+tic+tac+toe&simid=608003650198662852&FORM=IRPRST&ck=99018933095564EE66330CF2E1B11E1D&selectedIndex=1&itb=0&cw=1145&ch=607&ajaxhist=0&ajaxserp=0)">
+<img width="500" alt="image" src="https://github.com/mummadiroshanreddy/AI-Final-Project/assets/129618586/5ae7858b-a421-45d6-bd09-5f8f613c1099">
 
 # Min-Max Algorithm
 
