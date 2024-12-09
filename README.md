@@ -8,7 +8,7 @@ Tic Tac Toe is a classic and engaging two-player game played on a three-by-three
 To achieve optimal decision-making, various agents can be utilized, including the Q-learning algorithm for reinforcement learning and the Alpha-Beta and Minimax algorithms for adversarial search. These agents evaluate key parameters such as the number of moves, node exploration, and the total time required to complete the game, striving to make the most effective choices at each step.
 
 <div align="center">
-  <img width="450" alt="OIP" src="https://github.com/Chtejareddy10/AI-Final-Project/assets/AlphaBeta.png">
+  <img width="450" alt="OIP" src="https://github.com/Chtejareddy10/AI-Final-Project/AlphaBeta.png">
 </div>
 
 # Objectives
