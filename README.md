@@ -52,9 +52,9 @@ Q-Learning is a popular reinforcement learning technique grounded in the Bellman
 
 Reinforcement learning is a machine learning approach where an agent learns through trial and error within an interactive environment. By observing its actions and their outcomes, the agent adapts and acquires knowledge to improve its performance over time.
 
-
-![reinforcement](https://github.com/user-attachments/assets/95a165fb-3b48-43a5-808e-553ab7c34f56)
-
+<div align="center">
+<img width="450" alt="reinforcement" src="https://github.com/user-attachments/assets/95a165fb-3b48-43a5-808e-553ab7c34f56">
+</div>
 
 # Min-Max Algorithm
 
