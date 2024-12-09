@@ -71,7 +71,7 @@ The **Minimax Algorithm** is a decision-making method in game theory used for tw
 **Enhancements like Alpha-Beta Pruning** help reduce the search space, improving efficiency without sacrificing accuracy.
 
 
-<img width="450" alt="image" src="https://github.com/mummadiroshanreddy/AI-Final-Project/assets/129618586/c30cda74-0e86-4e31-ad3a-5c82d33d504b">
+![Min_Max](https://github.com/user-attachments/assets/ad468667-4d65-4618-82a5-85b5f9468b20)
 
 # Alpha-Beta
 
