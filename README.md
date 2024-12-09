@@ -10,11 +10,12 @@ Tic Tac Toe is a classic and engaging two-player game played on a three-by-three
 # Implementation
 
 To achieve optimal decision-making, various agents can be utilized, including the Q-learning algorithm for reinforcement learning and the Alpha-Beta and Minimax algorithms for adversarial search. These agents evaluate key parameters such as the number of moves, node exploration, and the total time required to complete the game, striving to make the most effective choices at each step.
+
 <div align="center">
   <img width="450" alt="ai py" src="https://github.com/mummadiroshanreddy/AI-Final-Project/assets/129618586/37abe2b1-7de7-4cb0-8897-f409f359cf83">
 </div>
 
-# Objectives  
+# Objectives
 
 1. Develop AI agents for both adversarial search and reinforcement learning to play the game of Tic Tac Toe.  
 
@@ -26,22 +27,23 @@ To achieve optimal decision-making, various agents can be utilized, including th
 
 5. Identify key metrics to compare the performance of the three algorithms and determine which approach—adversarial search or reinforcement learning—is more effective.  
 
-# Approaches  
+# Approaches
 
 Our primary strategy for reinforcement learning involves utilizing:  
-- **Q-Learning**  
-
+```
+1.Q-Learning.
+```
 As a complementary approach, we adopt adversarial search, leveraging the following techniques:  
-- **Minimax Algorithm**  
-- **Alpha-Beta Pruning**  
-
-The implementation relies heavily on Python 3 as the core technology in our stack.  
+```
+1.Minimax Algorithm 
+2.Alpha-Beta Pruning.
 ```
 Python 3 is the main component of the technology stack that these techniques rely on.
 ```
 1.Python3
 
 ```
+
 # Brief Description of Agents
 
 # Q-Learning
