@@ -76,7 +76,7 @@ The **Minimax Algorithm** is a decision-making method in game theory used for tw
 
 Reducing the overall number of nodes in the search tree produced by the min-max algorithm is the main objective of alpha-beta pruning. This method is commonly used in two-player games that make use of adversarial search techniques. When applied to a min-max tree, it produces the same moves as min-max but skillfully eliminates branches that are not important in deciding the ultimate result.
 
-![ai project](https://github.com/mummadiroshanreddy/AI-Final-Project/assets/129618586/27603b60-f5a1-46b4-b5d1-3b54e6a30a1c)
+![AlphaBeta](https://github.com/user-attachments/assets/b74f4b0c-d132-46bf-affc-2199b029876c)
 
 
 # Deliverables  
