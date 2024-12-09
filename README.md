@@ -3,16 +3,12 @@
 
 Tic Tac Toe is a classic and engaging two-player game played on a three-by-three grid. Each player alternates placing their symbol, typically 'X' or 'O,' into an empty square, aiming to form a straight line of three symbols either horizontally, vertically, or diagonally. The objective is to create this line before your opponent does. Simple to learn yet rich in strategic possibilities, Tic Tac Toe offers quick and enjoyable gameplay for all ages.
 
-<div align="center">
-<img width="450" alt="Screenshot 2023-12-05 135141" src="https://github.com/mummadiroshanreddy/AI-Final-Project/assets/129618586/56186004-b0cb-4c32-9572-f7ec381f24fd">
-</div>
-
 # Implementation
 
 To achieve optimal decision-making, various agents can be utilized, including the Q-learning algorithm for reinforcement learning and the Alpha-Beta and Minimax algorithms for adversarial search. These agents evaluate key parameters such as the number of moves, node exploration, and the total time required to complete the game, striving to make the most effective choices at each step.
 
 <div align="center">
-  <img width="450" alt="ai py" src="https://github.com/mummadiroshanreddy/AI-Final-Project/assets/129618586/37abe2b1-7de7-4cb0-8897-f409f359cf83">
+  <img width="450" alt="OIP" src="https://github.com/mummadiroshanreddy/AI-Final-Project/assets/129618586/37abe2b1-7de7-4cb0-8897-f409f359cf83">
 </div>
 
 # Objectives
