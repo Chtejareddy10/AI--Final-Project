@@ -8,7 +8,7 @@ Tic Tac Toe is a classic and engaging two-player game played on a three-by-three
 To achieve optimal decision-making, various agents can be utilized, including the Q-learning algorithm for reinforcement learning and the Alpha-Beta and Minimax algorithms for adversarial search. These agents evaluate key parameters such as the number of moves, node exploration, and the total time required to complete the game, striving to make the most effective choices at each step.
 
 <div align="center">
-<img width="450" alt="implementation" src="https://github.com/user-attachments/assets/bae4edc9-b44f-4c39-a742-c65352d6310e">
+<img width="500" alt="implementation" src="https://github.com/user-attachments/assets/bae4edc9-b44f-4c39-a742-c65352d6310e">
 </div>
 
 # Objectives
@@ -53,7 +53,7 @@ Q-Learning is a popular reinforcement learning technique grounded in the Bellman
 Reinforcement learning is a machine learning approach where an agent learns through trial and error within an interactive environment. By observing its actions and their outcomes, the agent adapts and acquires knowledge to improve its performance over time.
 
 <div align="center">
-<img width="450" alt="reinforcement" src="https://github.com/user-attachments/assets/95a165fb-3b48-43a5-808e-553ab7c34f56">
+<img width="500" alt="reinforcement" src="https://github.com/user-attachments/assets/95a165fb-3b48-43a5-808e-553ab7c34f56">
 </div>
 
 # Min-Max Algorithm
@@ -71,13 +71,19 @@ The **Minimax Algorithm** is a decision-making method in game theory used for tw
 **Enhancements like Alpha-Beta Pruning** help reduce the search space, improving efficiency without sacrificing accuracy.
 
 
-![Min_Max](https://github.com/user-attachments/assets/ad468667-4d65-4618-82a5-85b5f9468b20)
+<div align="center">
+<img width="500" alt="Min_Max" src="https://github.com/user-attachments/assets/ad468667-4d65-4618-82a5-85b5f9468b20">
+</div>
+
 
 # Alpha-Beta
 
 Reducing the overall number of nodes in the search tree produced by the min-max algorithm is the main objective of alpha-beta pruning. This method is commonly used in two-player games that make use of adversarial search techniques. When applied to a min-max tree, it produces the same moves as min-max but skillfully eliminates branches that are not important in deciding the ultimate result.
 
-![AlphaBeta](https://github.com/user-attachments/assets/b74f4b0c-d132-46bf-affc-2199b029876c)
+<div align="center">
+<img width="500" alt="AlphaBeta" src="https://github.com/user-attachments/assets/b74f4b0c-d132-46bf-affc-2199b029876c">
+</div>
+
 
 
 # Deliverables  
